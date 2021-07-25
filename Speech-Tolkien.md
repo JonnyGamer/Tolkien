@@ -1,3 +1,5 @@
+32420 different kinds of sentences
+
 ```
 Reading.
 Adjective - Adjective - Adjective
