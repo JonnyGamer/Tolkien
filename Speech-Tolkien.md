@@ -1,4 +1,7 @@
-32420 different kinds of sentences
+38327 sentences.
+
+32420 different kinds of sentences.
+
 
 ```
 Reading.
