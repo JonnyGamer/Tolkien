@@ -3,6 +3,52 @@ Made up 1695 different words
 
 ```
 hobbit 293
+hobbit's 12
+hobbit-architecture 1
+hobbit-bows 1
+hobbit-boy 1
+hobbit-boys 1
+hobbit-building 1
+hobbit-care 1
+hobbit-child 1
+hobbit-children 3
+hobbit-cloak 1
+hobbit-eyes 1
+hobbit-face 1
+hobbit-families 1
+hobbit-fashion 2
+hobbit-feet 1
+hobbit-folk 3
+hobbit-garments 1
+hobbit-girls 1
+hobbit-hand 1
+hobbit-hole 16
+hobbit-holes 5
+hobbit-kind 1
+hobbit-lands 1
+hobbit-legend 1
+hobbit-legs 1
+hobbit-like 1
+hobbit-lordlings 1
+hobbit-lore 2
+hobbit-people 1
+hobbit-pony 1
+hobbit-prints 1
+hobbit-rooms 1
+hobbit-sense 3
+hobbit-size 1
+hobbit-skin 1
+hobbit-smell 1
+hobbit-talk 1
+hobbit-voices 1
+hobbitlike 2
+hobbiton 55
+hobbiton's 1
+hobbiton-bred 1
+hobbitry 1
+hobbitry-in-arms 1
+hobbits 587
+hobbitses 2
 ```
 
 
