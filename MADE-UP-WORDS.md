@@ -1,5 +1,5 @@
-Used made up words 17239 times  
-Made up 1695 different words  
+Used made up words 16975 times  
+Made up 1648 different words  
 
 ```
 hobbit 293
@@ -72,7 +72,6 @@ ai-mênu 2
 ai-oi 2
 aiglos 1
 aii 1
-aint 1
 airetári-lírinen 1
 aiya 2
 aldalómë 1
@@ -110,7 +109,6 @@ annon 1
 annúminas 3
 annûn 9
 anor 9
-anothers 1
 anárion 7
 anórien 10
 appledore 2
@@ -121,7 +119,6 @@ aranion 1
 arathorn 22
 araw 1
 archet 7
-arent 6
 argonath 8
 arkenstone 19
 armour 22
@@ -153,8 +150,7 @@ bagshot 11
 bain 1
 baldor 4
 balin 84
-balin's 5
-balins 4
+balin's 9
 bamfurlong 1
 bandobras 3
 barad-dûr 28
@@ -179,8 +175,8 @@ behaviour 3
 beleriand 2
 belfalas 7
 beorn 57
+beorn's 10
 beornings 5
-beorns 10
 beregond 71
 beregond's 2
 beren 15
@@ -188,7 +184,7 @@ bergil 16
 bergil's 1
 berhael 1
 bert 26
-berts 2
+bert's 2
 berúthiel 1
 besaid 1
 beth 1
@@ -212,7 +208,7 @@ bombadil 35
 bombadil's 3
 bombadillo 3
 bombur 59
-bomburs 2
+bombur's 2
 boorar 1
 borgil 1
 boro 1
@@ -257,7 +253,7 @@ bucklanders 4
 bucklebury 14
 budgeford 1
 bullroarer 5
-bullroarers 1
+bullroarer's 1
 bundushathûr 1
 bungo 3
 burrahobbit 2
@@ -286,10 +282,10 @@ carach 3
 caradhras 22
 caras 8
 carc 3
+carc's 1
 carcase 4
 carcases 2
 carchost 1
-carcs 1
 carn 2
 carnimírië 2
 carrock 15
@@ -339,7 +335,6 @@ cormallen 5
 cornlands 1
 corslet 7
 corslets 1
-couldnt 6
 counselled 8
 creakings 1
 crebain 2
@@ -355,9 +350,8 @@ daffadowndilly 1
 dagorlad 4
 dahrar 2
 dain 26
-dains 2
+dain's 2
 damrod 9
-darent 2
 daro 1
 daur 1
 daymeal 2
@@ -379,7 +373,6 @@ derufin 2
 dervorin 1
 di'monds 1
 di'nguruthos 1
-didnt 7
 dillo 4
 dimholt 3
 dimrill 16
@@ -388,19 +381,17 @@ dishevelled 2
 dishonoured 2
 dishonours 1
 dn 2
-doesnt 10
 dogshave 1
 dol 42
 dolven 1
 doner 1
-dont 123
 doomand 1
 doorward 2
 doorwardens 2
 doorwards 1
 dori 35
+dori's 3
 doriath 2
-doris 3
 dorthonion 1
 dorwinion 2
 downlands 1
@@ -421,14 +412,13 @@ dunland 10
 dunlendings 2
 durbatulûk 1
 durin 16
-durin's 15
-durins 4
-dursnt 2
+durin's 19
+dursn't 2
 durstn't 1
 durthang 2
 dusst 1
 dwalin 21
-dwalins 1
+dwalin's 1
 dwarrowdelf 2
 dwarvish 6
 dwelleth 1
@@ -488,15 +478,12 @@ elfstone 12
 elladan 12
 elrohir 11
 elrond 192
-elrond's 15
-elronds 1
-elses 2
+elrond's 16
 elsewhither 1
 elvendom 1
 elvenhome 6
 elvenking 19
-elvenking's 1
-elvenkings 4
+elvenking's 5
 elwing 3
 elyë 1
 emptyhanded 1
@@ -568,7 +555,6 @@ fallohide 2
 fallohides 3
 fallohidish 1
 falmalinnar 1
-familys 1
 famisshed 2
 famousest 1
 fangorn 62
@@ -652,9 +638,8 @@ gamgee's 1
 gamgees 2
 gamling 11
 gandalf 1258
-gandalf's 42
+gandalf's 50
 gandalf-and 1
-gandalfs 8
 gangrel 2
 gangrels 1
 garn 5
@@ -691,8 +676,8 @@ goldberry 31
 goldberry's 1
 goldenhaired 1
 goldwine 1
-golfimbuls 1
-gollums 8
+golfimbul's 1
+gollums 1
 gondolin 9
 gondor 268
 gondor's 1
@@ -744,7 +729,6 @@ gwaihir 13
 gálmód 1
 gárulf 1
 gúthwinë 2
-hadnt 2
 hador 2
 hagling 1
 hal 2
@@ -777,7 +761,6 @@ harpstring 1
 harri 1
 harrowdale 8
 hasufel 9
-havent 13
 haysend 2
 hayward 2
 heathertoes 2
@@ -790,7 +773,6 @@ herdfolk 1
 herefara 1
 herubrand 1
 herugrim 1
-hes 3
 hildinyar 1
 hir 1
 hirgon 8
@@ -852,7 +834,6 @@ iarwain 3
 ill-favoured 3
 ilmarin 3
 ilyë 1
-im 9
 imbë 1
 imlad 3
 imladris 11
@@ -876,15 +857,11 @@ isenmouthe 6
 isi 1
 isildur 51
 isildur's 24
-isnt 8
 iss 5
-itd 2
 ithil 13
 ithil-stone 1
 ithildin 2
 ithilien 38
-itll 1
-ive 5
 january 1
 jewelled 3
 jewellery 1
@@ -901,7 +878,7 @@ khazâd 5
 kheled-zâram 7
 kibil-nâla 2
 kili 37
-kilis 1
+kili's 1
 kindlings 1
 kingsfoil 6
 knobbly 1
@@ -1002,7 +979,6 @@ mardil 2
 marges 1
 marish 11
 marshalled 3
-marshs 1
 maruvan 1
 marvelled 6
 marvelling 3
@@ -1085,7 +1061,6 @@ mundburg 9
 musst 1
 musstn't 3
 musterings 1
-mustnt 1
 muzgash 1
 máryat 1
 míri 1
@@ -1164,12 +1139,10 @@ oakenshield 16
 oakwoods 1
 oast 2
 oathbreakers 2
-oclock 1
 october 9
 odo 2
 odour 3
 odours 1
-oer 1
 offence 1
 ofminas 1
 ohtar 1
@@ -1243,14 +1216,13 @@ pinnath 4
 ploughman 1
 pocketses 11
 ponyhe 1
-ponys 2
 ponyso 1
 ppps 1
 pps 1
 practise 1
 practised 3
 practising 1
-praps 3
+praps 2
 preciouss 7
 preciousss 4
 precioussss 1
@@ -1353,11 +1325,9 @@ shadowfax 70
 shadowmere 1
 shagrat 42
 shagrat's 6
-shant 5
 sharkey 13
 sharkey's 5
 shathûr 1
-sheeps 1
 shelob 28
 shelob's 8
 shepherdless 1
@@ -1372,7 +1342,6 @@ shirriff-leader 2
 shirriffing 1
 shirriffs 14
 shoreland 1
-shouldnt 2
 shouldst 1
 shoutinghe 1
 shrivelled 6
@@ -1399,7 +1368,7 @@ slingstones 1
 slinker 4
 smallburrow 2
 smaug 79
-smaugs 9
+smaug's 9
 smials 11
 smithying 1
 smokering 1
@@ -1496,35 +1465,29 @@ thangorodrim 2
 thank'ee 1
 tharbad 3
 tharkûn 1
-thatll 2
 theelder 1
 thems 1
 thengel 10
 thengel's 5
 thengling 1
 theyclaimed 1
-theyll 4
-theyre 3
-theyve 1
 thinbone 1
 thingol 3
 thingol's 1
-thisll 1
 thistlewool 1
 thorin 243
-thorins 16
+thorin's 16
 thornbushes 1
 thorondor 1
 thrain 15
-thrains 3
+thrain's 3
 thrakatulûk 1
 thranduil 3
 thranduil's 1
 thrawn 1
 thrihyrne 4
 thror 15
-thrors 5
-thrushs 1
+thror's 5
 thráin 4
 thrór 5
 thursday 6
@@ -1550,7 +1513,7 @@ tookish 4
 tookishly 1
 tookishness 1
 tookland 4
-tooks 24
+tooks 20
 toom 1
 torech 1
 townlands 5
@@ -1651,7 +1614,6 @@ waggons 6
 walda 1
 wandlimb 1
 warworthy 1
-wasnt 3
 watchwood 1
 waterlands 1
 wateror 1
@@ -1666,7 +1628,6 @@ wednesday 4
 wellforged 1
 wellinghall 2
 wellnigh 1
-werent 1
 westemnet 1
 westernesse 21
 westfarthing 3
@@ -1680,23 +1641,20 @@ westmarch 6
 westron 3
 westu 1
 wetwang 1
-weve 1
 wheew 1
 whin 1
 whiteskins 6
 whitfoot 5
 whitfurrows 1
 whitwell 1
-wholl 1
 whortle-berry 1
-whos 2
 wildberries 1
 wilderland 18
 wildgoose 1
 wilful 2
 wilfully 3
 william 22
-williams 6
+william's 6
 wind-writhen 1
 windfola 2
 windlord 5
@@ -1714,13 +1672,11 @@ wormtongue's 5
 wormtongues 1
 worriting 1
 woses 1
-wouldnt 3
 writhen 2
 wídfara 3
 ya-harri-hey 1
 yale 1
 yassen 1
-yerd 1
 yerself 4
 yesss 1
 yesterevening 1
@@ -1728,9 +1684,6 @@ yestre 1
 yoi 1
 youhave 1
 youi 1
-youll 2
-youre 6
-youve 4
 yrch 2
 yuldar 1
 yulma 1
