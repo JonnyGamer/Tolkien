@@ -1,6 +1,10 @@
 Used made up words 17239 times  
 Made up 1695 different words  
 
+```
+hobbit 293
+```
+
 
 ```
 a-lalla-lalla-rumba-kamanda-lind-or-burúmë 1
