@@ -1,5 +1,5 @@
-Used made up words 17239 times
-Made up 1695 different words
+Used made up words 17239 times  
+Made up 1695 different words  
 
 
 ```
