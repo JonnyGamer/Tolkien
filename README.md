@@ -83,4 +83,5 @@ By that time
 	the front door was
 		open
 		letting in a warm spring breeze
+	In Walked Gandalf!
 ```
