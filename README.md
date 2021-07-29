@@ -744,3 +744,67 @@ William
 			before he could duck behind the tree.
 	said, "Blimey, Bert, look what I've copped!"
 ```
+```
+# The trolls figure out Bilbo
+
+The other trolls
+	said "What is it?"
+	were coming up to William.
+William said,
+	"Lumme, if I knows! What are yer?"
+Poor Bilbo
+	said "Bilbo Baggins, a bur—a hobbit,"
+	shaking all over,
+	wondering how to make owl-noises before they throttled him.
+The Trolls
+	said "A burrahobbit?"
+	were a bit startled.
+Trolls
+	are slow in the uptake,
+	are mighty suspicious about anything new to them.
+William said,
+	"What's a burrahobbit got to do with my pocket, anyways?"
+Tom said
+	"And can yer cook 'em?"
+Bert
+	said "Yer can try,"
+	picked up a skewer.
+William
+	said "He wouldn't make above a mouthful,"
+	had already had a fine supper,
+	said, "not when he was skinned and boned."
+Bert
+	said
+		"P'raps there are more like him round about,
+		"we might make a pie,"
+		"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,"
+	looking at the hobbit's furry feet;
+	picked Bilbo up
+		by the toes
+		and shook him.
+Bilbo
+	said, "Yes, lots,"
+	said this before he remembered not to give his friends away.
+	immediately afterwards said, "No none at all, not one,"
+Bert
+	said, "What d'yer mean?"
+	holding Bilbo right way up, by the hair this time.
+Bilbo
+	gasping
+	said,
+		"What I say, and please don't cook me, kind sirs!"
+		"I am a good cook myself, and cook better than I cook, if you see what I mean."
+		"I'll cook beautifully for you, a perfectly beautiful breakfast for you, if only you won't have me for supper."
+William
+	said, "Poor little blighter,"
+	had already had as much supper as he could hold;
+	also had had lots of beer.
+	said, "Poor little blighter! Let him go!"
+Bert said,
+	"Not till he says what he means by lots and none at all,"
+	"I don't want to have me throat cut in me sleep!"
+	"Hold his toes in the fire, till he talks!"
+William said,
+	"I won't have it,"
+	"I caught him anyway."
+```
