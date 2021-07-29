@@ -3,6 +3,8 @@ Amazing Tolkien Data Science
 
 Keep it safe, keep it secret
 
+(Oh my! There are 19 chapters in *The Hobbit*)
+
 
 # The Hobbit: Chapter 2: Roast Mutton
 
