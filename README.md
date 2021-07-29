@@ -1183,3 +1183,92 @@ They all
 				they all pushed
 				Gandalf tried various incantations.
 ```
+```
+# The Company enters the Trolls cave
+
+Bilbo
+	asked
+		"Would this be any good?"
+		when they were
+			getting tired
+			getting angry.
+	said "I found it
+		"on the ground
+		"where the trolls had their fight
+	held out a key
+		largish
+		which no doubt William had thought was
+			very small
+			secret.
+		which must have fallen
+			out of William's pocket
+			very luckily
+			before William was turned to stone.
+
+The Company
+	cried, "Why on earth didn't you mention it before?"
+
+Gandalf
+	grabbed it
+	fitted it into the keyhole.
+
+The Company
+	swung back
+		the stone door
+		with one big push
+	went
+		inside
+	saw
+		bones on the floor
+		a nasty smell was in the air;
+		food
+			a good deal of it
+			jumbled carelessly
+				on shelves
+				on the ground,
+		plunder
+			an untidy litter of it
+			all sorts
+			brass buttons
+			pots
+				full of gold coins
+				standing in a corner.
+		clothes
+			lots, too
+			hanging on the walls
+			too small for trolls,
+			which I am afraid they belonged to victims
+		swords
+			among everything else
+			of various
+				makes
+				shapes
+				sizes
+	caught their eyes on
+		two swords
+			particularly
+			because of their
+				beautiful scabbards
+				jewelled hilts.
+
+
+Gandalf and Thorin
+	each took one of these;
+Bilbo
+	took a knife
+		in a leather sheath.
+		which would have made only a tiny pocket-knife for a troll,
+		which was as good as a short sword for the hobbit.
+The Wizard
+	half drawing them
+	looking at them curiously.
+	said the swords
+		"look like good blades
+		"were not made by
+			"any troll,
+			"any smith among men
+				"in these parts
+				"in these days;
+		"we shall know more about them
+			but when we can read the runes on them,
+```
