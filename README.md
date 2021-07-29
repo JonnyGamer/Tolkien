@@ -136,3 +136,39 @@ Gandalf said,
 	"No time for that either!"
 	"Off you go!"
 ```
+```
+# The Note from Thorin and Company
+
+Greeting!
+	from Thorin and Company
+	to Burglar Bilbo
+Thanks
+	sincerest
+	For your hospitality
+Acceptance
+	grateful
+	for your offer of professional assistance
+Terms
+	Total Profits
+		cash on delivery
+		up to and not exceeding one fourteenth (if any);		
+	All travelling expenses
+		guaranteed
+		in any event
+	Funeral expenses
+		defrayed by us or our representatives
+		if occasion arises
+		if the matter is not otherwise arranged for
+We Have Proceeded
+	Thinking it unnecessary to disturb your esteemed repose
+	in advance
+	to make requisite preparations
+We Shall Await
+	your respected person
+	at the Green Dragon Inn, Bywater
+	at 11 a.m. sharp
+	Trusting that you will be punctual
+We Have
+	the honour to remain yours deeply
+Thorin & Co.
+```
