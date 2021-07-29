@@ -355,3 +355,40 @@ Bilbo
 		"The kettle just beginning to sing!"
 		(It was not the last time that he wished that!)
 ```
+```
+# Good luck on their adventures
+
+The Dwarves
+	still jogged on,
+	never
+		turned round
+		took any notice of the hobbit.
+
+As they went
+	The sun must have gone down somewhere behind the grey clouds
+	Everything began to get dark
+	Down into a deep valley with a river at the bottom.
+	Wind got up
+	Willows along its banks bent and sighed.
+
+They Company went
+	Fortunately
+	over
+		an ancient stone bridge
+		the river which
+			was swollen with the rains,
+			came rushing down from the hills
+			came rushing down from mountains in the north.
+
+When they had crossed over the bridge
+	It was nearly night
+	The wind broke up the grey clouds,
+	A moon appeared
+		wandering
+		above the hills
+		between the flying rags.
+	They stopped
+	Thorin muttered
+		something about supper
+		"and where shall we get a dry patch to sleep on?
+```
