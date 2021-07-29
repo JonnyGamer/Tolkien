@@ -323,3 +323,35 @@ The Company
 			wet.
 
 ```
+```
+# Bilbo Grubmles
+
+Bilbo
+	said, "To think it will soon be June!"
+	splashed along
+		behind the others
+		in a very muddy track.
+	grumbled because
+		It was after tea-time
+		It was pouring with rain
+		It had been all day;
+		his hood was dripping into his eyes
+		his cloak was full of water;
+		the pony
+			was tired
+			stumbled on stones
+		the others were too grumpy to talk.
+	thought,
+		"And I'm sure the rain has got into
+			the dry clothes
+			the food-bags
+		"Bother
+			burgling
+			everything to do with burgling!
+	wished,
+		"He was at home"
+		"He was in hus nice hole"
+		"He was by the fire"
+		"The kettle just beginning to sing!"
+		(It was not the last time that he wished that!)
+```
