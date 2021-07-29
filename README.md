@@ -392,3 +392,68 @@ When they had crossed over the bridge
 		something about supper
 		"and where shall we get a dry patch to sleep on?
 ```
+```
+# Bad luck on their adventures
+
+They Company noticed
+	Gandalf
+		was missing.
+		had come all the way with them
+		Never said if he was in the adventure or merely keeping them company for a while.
+		Had eaten most
+		Had talked most,
+		Had laughed most.
+		Simply was not there at all!
+
+Dori and Nori
+	groaned
+		"Just when a wizard would have been most useful, too,"
+	shared the hobbit's views about
+		regular meals.
+		plenty meals.
+		often meals.
+
+
+They decided in the end
+	they would have to camp where they were.
+	to move to a clump of trees
+		because it was drier under them,
+		although
+			the wind shook the rain off the leaves,
+			the drip, drip, was most annoying.
+	to make a fire
+		But they could not do it that night
+			Because the mischief seemed to have got into the fire.
+			Even though
+				Dwarves can make a fire
+					almost anywhere
+					out of almost anything,
+					wind or no wind;
+				Oin and Gloin were specially good at it.
+
+One of the ponies
+	took fright at nothing
+	bolted.
+	got into the river
+		before they could catch him
+		and before they could get him out again,
+			Fili and Kili were nearly drowned
+			all the baggage that he carried
+				was washed away off him.
+				was mostly food,
+					and there was mighty little left for supper,
+					and less for breakfast.
+
+There they all
+	sat glum
+	sat wet
+	sat muttering,
+Oin and Gloin went on
+	trying to light the fire
+	quarrelling about it.
+Bilbo was reflecting
+	sadly
+	that adventures are not all
+		pony-rides
+		in May-sunshine
+```
