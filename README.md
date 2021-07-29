@@ -80,7 +80,7 @@ Bilbo began to
 			the front door was
 				open
 			letting in a warm spring breeze
-		In walked Gandalf!
+			In walked Gandalf!
 ```
 ```
 # Bilbo and Gandalf's Conversation
