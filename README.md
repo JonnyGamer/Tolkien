@@ -173,7 +173,7 @@ We Have
 Thorin & Co.
 ```
 ```
-# Bilbo Leaves!
+# Bilbo Leaves and joins The Company!
 
 Bilbo could never remember
 	To the end of his days
