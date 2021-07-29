@@ -9,7 +9,7 @@ Keep it safe, keep it secret
 # The Hobbit: Chapter 2: Roast Mutton
 
 ```
-Outlines from Chapter 1
+Outlines from Chapter 2
 
 1. Bilbo Wakes Up after the party
 2. Gandalf persuades Bilbo to go with them
