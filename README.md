@@ -853,3 +853,130 @@ Bilbo
 	his head was going round;
 	lay for a while panting, just outside the circle of firelight.
 ```
+```
+The Dwarves attemp to save Bilbo, and fight the trolls
+
+Balin
+	came up
+		Right in the middle of the fight
+The Dwarves
+	had heard noises from a distance,
+	after waiting
+		for some time
+		for Bilbo
+			to come back,
+			to hoot like an owl
+		they started off
+			one by one
+			creeping
+			towards the light
+			as quietly as they could.
+
+
+Tom
+	saw Balin come into the light
+	gave an awful howl no sooner
+
+Trolls
+	simply detest the very sight of dwarves (uncooked).
+
+Bert and Bill
+	stopped fighting immediately,
+	said, "a sack, Tom, quick!"
+
+Balin
+	was wondering where in all this commotion Bilbo was
+	Before he knew what was happening
+		a sack was over his head,
+		he was down.
+
+Tom said,
+	"There's more to come yet,"
+	"or I'm mighty mistook."
+	"Lots and none at all, it is,"
+	"No burrahobbits, but lots of these here dwarves."
+	"That's about the shape of it!"
+Bert said
+	"I reckon you're right,"
+	"and we'd best get out of the light."
+The Trolls
+	got out of the light
+	With sacks
+		in their hands
+		that they used for carrying off
+			mutton
+			other plunder,
+	waited in the shadows.
+
+Each of the dwarves
+	Came up
+	looked at
+		the fire,
+		the spilled jugs,
+		the gnawed mutton
+	in surprise,
+		pop!
+		went a nasty smelly sack over his head,
+		he was down.
+Soon
+	Dwalin lay by Balin
+	Fili and Kili together,
+	all in a heap,
+		Dori and Nori and Ori
+	piled uncomfortably near the fire.
+		Oin and Gloin
+		Bifur and Bofur and Bombur
+
+Tom said,
+	"That'll teach 'em,"
+	this because Bifur and Bombur
+		had given a lot of trouble,
+		fought like mad,
+		did as dwarves will when cornered.
+
+Thorin
+	came last
+	was not caught unawares.
+	came expecting mischief
+	didn't need to see his friends' legs sticking out of sacks to tell him that things were not all well.
+	stood outside in the shadows some way off,
+	said
+		"What's all this trouble?"
+		"Who has been knocking my people about?"
+
+Bilbo
+	behind a tree
+	said "It's trolls!"
+	The Trolls had forgotten all about him
+	said, "They're hiding in the bushes with sacks,"
+
+Thorin
+	said "O! are they?"
+	jumped forward to the fire, before they could leap on him.
+	caught up a big branch all on fire at one end;
+
+Bert
+	Bert got that end in his eye before he could step aside.
+	was put out of the battle for a bit.
+
+Bilbo
+	did his best.
+	caught hold of Tom's leg—as well as he could
+
+Tom
+	his leg was thick as a young tree-trunk
+	sent Bilbo
+		spinning up
+		into the top of some bushes,
+	Tom kicked the sparks up in Thorin's face.
+	got the branch in his teeth for that
+	lost one of the front ones [teeth]
+		which made him howl, I can tell you.
+
+William
+	just at that moment
+	came up behind
+	popped a sack right over Thorin's head and down to his toes
+
+And so the fight ended.
+```
