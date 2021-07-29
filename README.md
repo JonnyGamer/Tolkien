@@ -85,3 +85,57 @@ By that time
 		letting in a warm spring breeze
 	In Walked Gandalf!
 ```
+```
+# Bilbo and Gandalf's Conversation
+
+Gandalf said,
+	"My dear fellow,"
+	"Whenever are you going to come?"
+	"What about an early start?"
+	"And here you are"
+		"having"
+			"breakfast"
+			"whatever you call it,
+		"at half past ten!"
+	"They left you"
+		"the message"
+		"because they could not wait."
+Bilbo
+	who was
+		Poor Mr. Baggins
+		in all a fluster,
+	said "What message?"
+Gandald said,
+	"Great Elephants!"
+	"You"
+		"are not at all yourself this morning"
+		"have never dusted the mantelpiece!"
+Bilbo said,
+	"What's that got to do with it?"
+	"I have had enough to do with washing up for fourteen!"
+Gandalf
+	said,
+		"If you had"
+			"dusted the mantelpiece"
+				"you would have found"
+					"this just under the clock,"
+	handed a note
+		written on his own note-paper
+			of course
+		to Bilbo
+Bilbo
+	Read the note.
+Gandalf said
+	"you"
+		"are left just ten minutes"
+		"will have to run"
+Biblo said
+	"But."
+The wizard said,
+	"No time for it,"
+Biblo said again
+	"But"
+Gandalf said,
+	"No time for that either!"
+	"Off you go!"
+```
