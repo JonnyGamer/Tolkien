@@ -77,3 +77,10 @@ Bilbo
 			in the dining-room	
 			by the open window
 ```
+```
+By that time
+	the sun was shining
+	the front door was
+		open
+		letting in a warm spring breeze
+```
