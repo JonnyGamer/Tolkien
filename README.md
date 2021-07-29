@@ -11,68 +11,68 @@ Keep it safe, keep it secret
 
 Bilbo
 	A. Jumped
-		up.
+		1. Up.
 	B. Put on
-		his dressing-gown.
+		1. His dressing-gown.
 	C. Went
-		into the dining-room.
+		1. Into the dining-room.
 	D. Saw
-		Nobody.
-		All the signs of:
+		1. Nobody.
+		2. All the signs of
 			a large breakfast
 			a hurried breakfast
 			a fearful mess
 			a mess in the room
-		Crocks:
+		3. Crocks
 			Piles of them.
 			Unwashed.
 			In the kitchen.
-		Pots and pans:
+		4. Pots and pans
 			Nearly every one he possessed.
 			Used.
 	E. Was forced to believe
-		the party
+		1. The party
 			of the night before.
 			had not been
 				part of his bad dreams
 				as he had rather 
-			washing-up
+			because washing-up
 				was so dismally real.
 	F. Was relieved
-		really after all
-		to think that they had all gone without
+		1. Really after all
+		2. To think that they had all gone without
 			him
 			bothering to wake him up
 			a thank-you
 	G. Felt
-		That he could not help feeling
-		just a trifle disappointed
-		surprised by the feeling.
+		1. That he could not help feeling.
+		2. Just a trifle disappointed.
+		3. Surprised by the feeling.
 	H. Said
-		to himself
-		"Don't be a fool"
+		1. To himself.
+		2. "Don't be a fool"
 			"Bilbo Baggins"
 			"Thinking at your age of"
 				"dragons"
 				"all that outlandish nonsense"
 	I. Put on
-		an apron
+		1. An apron.
 	J. Lit
-		fires
+		1. Fires.
 	K. Boiled
-		water
+		1. Water.
 	L. Washed
-		up
+		1. Up.
 	M. Went
-		in the kitchen
+		1. In the kitchen.
 	N. Had
-		a nice little breakfast.
+		1. A nice little breakfast.
 	O. Turned out
-		the dining-room.
+		1. The dining-room.
 	P. Began to
-		whistle loudly
-		forget about the night before
-		sit down
+		1. Whistle loudly.
+		2. Forget about the night before.
+		3. Sit down
 			to a nice little second beakfast
 			in the dining-room	
 			by the open window
