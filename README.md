@@ -610,3 +610,47 @@ Even Bilbo
 		from the shape of their legs,
 		not to mention from their language, which was not drawing-room fashion at all, at all.
 ```
+```
+# The trolls talk amongst themselves
+
+One of the Trolls said
+	Mutton
+		yesterday
+		today
+	blimey
+		if it don't look like mutton
+			again tomorrer
+
+Second Troll
+	said
+		"Never a blinking bit of manflesh have we had for long enough,"
+		"What the 'ell William was a-thinkin' of to bring us into these parts at all, beats me—
+		"The drink runnin' short, what's more,"
+	jogged the elbow of William, who was taking a pull at his jug.
+
+William
+	chocked
+	as soon as he could, said,
+		Shut yer mouth!
+		Yer can't expect folk
+			to stop here for ever
+			just to be et by
+				you
+				and Bert
+		You've et
+			a village and a half
+			between yer, since we come down from the mountains.
+		How much more d'yer want?
+		And time's been up our way, when yer'd have said 'thank yer Bill' for a nice bit o' fat valley mutton like what this is.
+	Was
+		roasting a sheep's leg
+	Took
+		a big bite off of what he was roasting
+	Wiped
+		his lips on his sleeve.
+
+Trolls behave
+	that way
+		I am afraid.
+		even those with only one head each.
+```
