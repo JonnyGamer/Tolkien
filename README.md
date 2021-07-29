@@ -172,3 +172,74 @@ We Have
 	the honour to remain yours deeply
 Thorin & Co.
 ```
+```
+# Bilbo Leaves!
+
+Bilbo could never remember
+	To the end of his days
+	how he found himself
+		outside
+		without
+			a hat
+			a walking-stick
+			any money
+			anything that he usually took when he went out
+		leaving
+			his second breakfast
+				half-finished
+				quite unwashed-up
+		pushing his keys into Gandalf's hands
+		running
+			as fast as his furry feet could carry him
+			down the lane,
+			past the great Mill,
+			across The Water,
+			and then on
+			for a mile or more.
+was very puffed
+	when he got to Bywater
+	just on the stroke of eleven
+found he had come
+	without a pocket-handkerchief!
+
+Balin said
+	"Bravo!"
+Balin was
+	standing at the inn door
+	looking out for him.
+
+All the others came
+	Just then
+	round the corner of the road
+	from the village.
+All the others were on ponies
+	with all kinds of
+		baggages slung about.
+		packages slung about.
+		parcels slung about.
+		paraphernalia slung about
+All the others brought a pony
+	that was very small.
+	apparently for Bilbo.
+
+Thorin said,
+	"Up you two get"
+	"and off we go!"
+Bilbo said,
+	"I'm awfully sorry,"
+	"But I have come without my hat"
+	"I have left my pocket-handkerchief behind"
+	"I haven't got any money."
+	"I didn't get your note until after 10.45 to be precise."
+Dwalin said,
+	Don't
+		be precise,
+		worry!
+	You will have to manage without
+		pocket-handkerchiefs,
+		a good many other things,
+		before you get to the journey's end.
+	As for a hat, I have got
+		a spare hood in my luggage
+		a cloak in my luggage.
+```
