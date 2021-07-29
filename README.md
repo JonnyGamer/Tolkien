@@ -1330,3 +1330,65 @@ The Company
 		on the path
 		towards the East.
 ```
+```
+# Thorin asks Gandalf to explain himself
+
+Thorin said
+	to Gandalf
+	as they rode along
+	"Where did you go to, if I may ask?"
+Gandalf said
+	"To look ahead,"
+Thorin said
+	"And what brought you back in the nick of time?"
+Gandalf said
+	"Looking behind,"
+Thorin said
+	"Exactly!"
+	"but could you be more plain?"
+Gandalf said,
+	"our road"
+		"I went on to spy out."
+		"will soon become"
+			"dangerous"
+			"difficult."
+	"I was anxious"
+		"about replenishing our small stock of provisions."
+	"I had"
+		"not gone very far, however"
+		"met friends"
+			"a couple of them"
+			"of mine"
+			"from Rivendell."
+Bilbo asked
+	"Where's that?"
+Gandald said
+	"Don't interrupt!"
+	"You will get there
+		"in a few days now,
+		"if we're lucky,
+		"and find out all about it."
+	"As I was saying"
+	"I met people who were"
+		"two of Elrond's"
+		"hurrying along"
+		"fearing the trolls."
+	"It was they who told me that three of them had
+		"come down from the mountains
+		"settled in the woods not far from the road:
+		"frightened everyone away from the district,
+		"waylaid strangers.
+	"I had a feeling"
+		"immediately"
+		"I was wanted back."
+	"I saw"
+		"Looking behind"
+		"a fire"
+			"in the distance"
+			"and made for it."
+	"So now you know."
+	"Please be more careful, next time, or we shall never get anywhere!"
+
+Thorin said,
+	"Thank you!"
+```
