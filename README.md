@@ -31,7 +31,7 @@ Outlines from Chapter 2
 18. The trolls argue on how to eat the dwarves, but get turned into stone
 19. Gandalf lets out all the dwarves and decides what to do next
 20. The Company enters the Trolls cave
-21. The Company loots the dwarves cave
+21. The Company loots the Trolls cave
 22. Thorin asks Gandalf to explain himself
 ```
 
