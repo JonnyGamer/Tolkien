@@ -1166,4 +1166,20 @@ Gandalf said,
 	"Anyhow you are wasting time now."
 	"Don't you realize that the trolls must have a cave or a hole dug somewhere near to hide from the sun in?"
 	"We must look into it!"
+They all
+	searched about,
+	soon found marks
+		of trolls'
+		of stony boots
+		going away through the trees.
+	followed
+		the tracks up the hill,
+		until they came upon a door
+			which was big
+			hidden by the bushes
+			of stone
+			leading to a cave.
+			which they could not open, though
+				they all pushed
+				Gandalf tried various incantations.
 ```
