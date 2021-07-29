@@ -448,9 +448,11 @@ There they all sat
 	glum.
 	wet.
 	muttering.
+	
 Oin and Gloin went on
 	trying to light the fire
 	quarrelling about it.
+	
 Bilbo was reflecting
 	sadly
 	that adventures are not all
