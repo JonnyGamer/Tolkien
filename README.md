@@ -258,3 +258,68 @@ Bilbo thought
 	the meals didn't come quite as often as he would have liked them,
 	began to feel that adventures were not so bad after all.
 ```
+```
+# The Adventure Begins
+
+The Company
+	Started on their adventure
+		jogging off from the inn
+		one fine morning
+		just before May,
+		on laden ponies;
+	Had not been riding very long
+		when up came Gandalf
+			very splendid
+			on a white horse
+			who had brought
+				a lot of pocket-handkerchiefs,
+				Bilbo's pipe
+				Bilbo's tobacco.
+			making the party go off along
+				very merrily
+	Rode forward all day
+		telling stories
+		sang songs
+		except of course
+			when they stopped for meals.
+	First
+		passed through hobbit-lands,
+			a wide country
+			a respectable country
+			a country inhabited by decent folk,
+			a country with
+				good roads
+				an inn or two,
+				now and then a dwarf or a farmer ambling by on business.
+	Then
+		they came to lands where people
+			spoke strangely,
+			sang songs Bilbo had never heard before.
+	Now in the Lone-lands,
+		they had gone on
+			far
+			where there were
+				no people left
+				no inns
+				roads growing steadily worse.
+		they had been obliged to camp when they could,
+		at least it had been dry.
+	Not far ahead
+		were hills that
+			looked dreary
+			were rising higher and higher
+			had dark with trees.
+			on some of them
+				had old castles
+					with an evil look
+					as if they had been built by wicked people.
+	The weather that day
+		made everything seemed gloomy
+		had taken a nasty turn.
+		had been
+			Mostly as good as May can be, can be, even in merry tales,
+		now was
+			cold
+			wet.
+
+```
