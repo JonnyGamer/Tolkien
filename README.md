@@ -239,4 +239,22 @@ Dwalin said,
 	As for a hat, I have got
 		a spare hood in my luggage
 		a cloak in my luggage.
+Bilbo was wearing
+	a hood
+		dark-green
+		(a little weather-stained)
+	a cloak
+		dark-green
+		borrowed from Dwalin.
+	things that
+		were too large for him
+		made him look rather comic.
+		you daren't think what his father Bungo would have thought of him
+Bilbo was not wearing
+	a beard
+		which was his only comfort
+		so he couldn't be mistaken for a dwarf
+Bilbo thought
+	the meals didn't come quite as often as he would have liked them,
+	began to feel that adventures were not so bad after all.
 ```
