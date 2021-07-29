@@ -654,3 +654,57 @@ Trolls behave
 		I am afraid.
 		even those with only one head each.
 ```
+```
+# Bilbo decides to burgle the trolls
+
+Bilbo
+	After hearing all this
+		ought to have
+			Done something at once.
+			Gone back
+				quietly
+				and warned his friends that there were
+					trolls
+						three of them
+						at hand
+						in a nasty mood
+						quite likely to try roasted dwarf, or even pony, for a change;
+			Done a bit of good quick burgling.
+	Knew
+		A really first-class and legendary burglar
+			would at this point have
+				picked the trolls' pockets—
+					it is nearly always worth while,
+					if you can manage it—,
+				pinched the very mutton off the spits,
+				purloined the beer,
+				walked off without their noticing him.
+		Other burglers
+			more practical but with less professional pride
+			would perhaps have
+				stuck a dagger
+					into each of them
+					before they observed it.
+				the night spent cheerily.
+		these things because
+			He had read of a good many things he had never
+				seen
+				done.
+	Was very much
+		alarmed,
+		disgusted;
+	Wished himself
+		a hundred miles away,
+	He could not go to Thorin and Company.
+		(and yet—and yet) somehow 
+		straight back
+		emptyhanded
+	stood in the shadows
+	hesitated in the shadows.
+	Thought
+		Of the various burglarious proceedings he had heard of picking the trolls' pockets seemed the least difficult,
+	He crept
+		at last
+		behind a tree
+		just behind William
+```
