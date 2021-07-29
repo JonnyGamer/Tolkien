@@ -34,7 +34,7 @@ Bilbo was forced to believe
 		of the night before.
 		had not been
 			part of his bad dreams
-			as he had rather 
+			as he had rather hoped.
 		because washing-up
 			was so dismally real.
 Bilbo was relieved
@@ -75,14 +75,12 @@ Bilbo began to
 		to a nice little second beakfast
 		in the dining-room	
 		by the open window
-```
-```
-By that time
-	the sun was shining
-	the front door was
-		open
-		letting in a warm spring breeze
-	In Walked Gandalf!
+		when, by that time
+			the sun was shining
+			the front door was
+				open
+			letting in a warm spring breeze
+		In walked Gandalf!
 ```
 ```
 # Bilbo and Gandalf's Conversation
