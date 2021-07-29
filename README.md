@@ -12,7 +12,7 @@ Keep it safe, keep it secret
 Outlines from Chapter 1
 
 1. Bilbo Wakes Up after the party
-2. Bilbo and Gandalf's Conversation
+2. Gandalf persuades Bilbo to go with them
 3. The Note from Thorin and Company
 4. Bilbo leaves Bag-End and joins The Company!
 5. The Adventure Begins
