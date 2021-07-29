@@ -414,7 +414,8 @@ Dori and Nori
 		often meals.
 
 
-They decided in the end
+They decided
+	in the end
 	they would have to camp where they were.
 	to move to a clump of trees
 		because it was drier under them,
