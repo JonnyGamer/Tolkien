@@ -586,3 +586,29 @@ Bilbo
 			to the fire—for fire it was—
 			without disturbing anyone.
 ```
+```
+# Bilbo sees that they are trolls
+
+# Bilbo Sees The Trolls
+
+They Were
+	three very large persons
+	sitting round a very large fire of beech-logs.
+	toasting mutton on long spits of wood,
+	licking the gravy off their fingers.
+There Was
+	a fine toothsome smell.
+	also a barrel of good drink at hand
+They were
+	drinking out of jugs.
+But they were
+	trolls.
+	Obviously trolls.
+Even Bilbo
+	in spite of his sheltered life
+	could see that they were trolls
+		from the great heavy faces of them,
+		from their size,
+		from the shape of their legs,
+		not to mention from their language, which was not drawing-room fashion at all, at all.
+```
