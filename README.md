@@ -1128,3 +1128,42 @@ Trolls
 Bert and Tom and William
 	had this happened to them.
 ```
+```
+# Gandalf lets out all the dwarves and decide what to do next
+
+Gandalf
+	said	"Excellent!"
+	stepped from behind a tree,
+	helped Bilbo
+		to climb down
+		out of a thorn-bush.
+
+Bilbo
+	understood it was the wizard's voice that had kept the trolls bickering and quarrelling, until the light came and made an end of them.
+
+
+The Dwarves
+	were
+		let out once the sacks were untied
+		nearly suffocated,
+		very annoyed:
+	had not at all enjoyed
+		lying there
+		listening to the trolls making plans for
+			roasting them
+			squashing them
+			mincing them.
+	had to hear
+		Bilbo's account of what had happened to him twice over,
+		before they were satisfied.
+
+
+Bombur said
+	"Silly time to go practising pinching and pocket-picking,"
+	"when what we wanted was fire and food!"
+Gandalf said,
+	"And that's just what you wouldn't have got of those fellows without a struggle, in any case,"
+	"Anyhow you are wasting time now."
+	"Don't you realize that the trolls must have a cave or a hole dug somewhere near to hide from the sun in?"
+	"We must look into it!"
+```
