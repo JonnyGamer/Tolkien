@@ -808,3 +808,48 @@ William said,
 	"I won't have it,"
 	"I caught him anyway."
 ```
+```
+# The trolls fight, and Bilbo escapes
+
+Bert said,
+	"You're a fat fool, William,"
+	"as I've said afore this evening."
+William said,
+	"And you're a lout!"
+Bert
+	said "And I won't take that from you, Bill Huggins,"
+	puts his fist in William's eye.
+The Trolls
+	had a gorgeous row.
+Bert
+	dropped Bilbo on the ground
+
+
+Bilbo
+	had just enough wits left,
+	scrambled out of the way of their feet, before they were
+		fighting like dogs,
+		calling one another
+			all sorts of perfectly
+				true names
+				applicable names
+			in very loud voices.
+
+
+The Trolls
+	were locked in one another's arms,
+	rolling nearly into the fire
+		kicking
+		thumping,
+Tom
+	whacked at them both with a branch to bring them to their senses
+	of course only made them madder than ever.
+
+
+Bilbo
+	would have been the time for Bilbo to have left.
+	his poor little feet had been very squashed in Bert's big paw
+	had no breath in his body,
+	his head was going round;
+	lay for a while panting, just outside the circle of firelight.
+```
