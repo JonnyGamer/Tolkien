@@ -444,10 +444,10 @@ One of the ponies
 					and there was mighty little left for supper,
 					and less for breakfast.
 
-There they all
-	sat glum
-	sat wet
-	sat muttering,
+There they all sat
+	glum.
+	wet.
+	muttering.
 Oin and Gloin went on
 	trying to light the fire
 	quarrelling about it.
