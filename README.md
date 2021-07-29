@@ -461,7 +461,7 @@ Bilbo was reflecting
 		in May-sunshine
 ```
 ```
-# The Company sees a light, and sends Bilbo
+# The Company sees a light
 
 Balin
 	who was always their look-out man
@@ -537,6 +537,9 @@ Suddenly the red light shone out
 	very bright
 	through the tree-trunks
 	not far ahead.
+```
+```
+# They decide to sned Bilbo to investigate
 
 They said,
 	to Bilbo
