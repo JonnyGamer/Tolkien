@@ -1126,5 +1126,5 @@ Trolls
 			never move again.
 	are made of the stuff of the mountains
 Bert and Tom and William
-	has this happened to them.
+	had this happened to them.
 ```
