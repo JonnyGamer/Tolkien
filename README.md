@@ -7,6 +7,34 @@ Keep it safe, keep it secret
 # The Hobbit: Chapter 2: Roast Mutton
 
 ```
+Outlines from Chapter 1
+
+1. Bilbo Wakes Up after the party
+2. Bilbo and Gandalf's Conversation
+3. The Note from Thorin and Company
+4. Bilbo leaves Bag-End and joins The Company!
+5. The Adventure Begins
+6. Bilbo Grumbles
+7. Good luck on their adventures
+8. Bad luck on their adventures
+9. The Company sees a light
+10. They decide to sned Bilbo to investigate
+11. Bilbo sees that there are trolls
+12. The trolls talk amongst themselves
+13. Bilbo decides to burgle the trolls
+14. Bilbo attempts to burgle the trolls
+15. The trolls figure out Bilbo
+16. The trolls fight each other, and Bilbo escapes
+17. The Dwarves attempt to save Bilbo, but get caught by the trolls
+18. The trolls argue on how to eat the dwarves, but get turned into stone
+19. Gandalf lets out all the dwarves and decides what to do next
+20. The Company enters the Trolls cave
+21. The Company loots the dwarves cave
+22. Thorin asks Gandalf to explain himself
+```
+
+
+```
 # Bilbo Wakes Up after the party
 
 Bilbo jumped
