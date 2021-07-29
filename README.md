@@ -589,8 +589,6 @@ Bilbo
 ```
 # Bilbo sees that they are trolls
 
-# Bilbo Sees The Trolls
-
 They Were
 	three very large persons
 	sitting round a very large fire of beech-logs.
