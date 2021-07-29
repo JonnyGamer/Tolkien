@@ -980,3 +980,151 @@ William
 
 And so the fight ended.
 ```
+```
+# The trolls figure out what to do with the dwarves, but get turned into stone
+
+The Dwarves were all
+	In a nice pickle now:
+	neatly tied up in sacks,
+	with trolls
+		three
+		angry
+		(and two with burns and bashes to remember)
+		sitting by them,
+		arguing whether they should
+			roast them slowly,
+			mince them fine and boil them,
+			just
+				sit on them one by one
+				squash them into jelly;
+
+
+Bilbo
+	was up in a bush,
+	with his clothes and his skin torn,
+	not daring to move for fear they should hear him.
+
+Gandalf
+	It was just then that he came back.
+	But no one saw him.
+
+
+The trolls
+	had just decided
+		to roast the dwarves now and eat them later
+		on Bert's idea, and after a lot of argument they had all agreed to it.
+
+A Voice, said,
+	"No good roasting 'em now, it'd take all night,"
+Bert said
+	thought the Voice was William's
+	"Don't start the argument all over again, Bill,"
+	"or it will take all night."
+William
+	said "Who's a-arguing?"
+	thought it was Bert that had spoken.
+Bert
+	said "You are,"
+William
+	said "You're a liar,"
+	began the argument all over again.
+The trolls
+	In the end
+	decided to mince them fine and boil them.
+	got a great black pot,
+	took out their knives.
+A Voice said
+	"No good boiling 'em!"
+	"We ain't got no water,"
+	"it's a long way to the well and all,"
+Bert and William
+	thought the Voice was Tom's.
+	said
+		"Shut up!"
+		"or we'll never have done."
+		"And yer can fetch the water yerself, if yer say any more."
+Tom
+	said "Shut up yerself!"
+	thought it was William's voice.
+	said "Who's arguing but you, I'd like to know."
+William said
+	"You're a booby,"
+Tom said
+	"Booby yerself!"
+
+The trolls
+	argument
+		began all over again,
+		went on
+			hotter than ever,
+			until at last they decided to
+				sit on the sacks one by one and squash them,
+				boil them next time.
+
+The Voice said
+	"Who shall we sit on first?"
+Bert said,
+	"Better sit on the last fellow first,"
+	whose eye had been damaged by Thorin.
+	thought Tom was talking.
+Tom said
+	"Don't talk to yerself!"
+	"But if you wants to sit on the last one, sit on him."
+	"Which is he?"
+Bert said
+	"The one with the yellow stockings,"
+The Voice
+	said "Nonsense, the one with the grey stockings,"
+	was like William's.
+Bert said
+	"I made sure it was yellow,"
+William said
+	"Yellow it was,"
+Bert said
+	"Then what did yer say it was grey for?"
+William said
+	"I never did. Tom said it."
+Tom said
+	"That I never did!"
+	"It was you."
+Bert said
+	"Two to one, so shut yer mouth!"
+William
+	"Who are you a-talkin' to?"
+Tom and Bert said together
+	"Now stop it!"
+	"The night's gettin' on, and dawn comes early."
+	"Let's get on with it!"
+The Voice
+	said "Dawn take you all, and be stone to you!"
+	sounded like William's.
+	wasn't William's voice
+
+
+There was
+	just at that moment
+	the light that came over the hill,
+	a mighty twitter in the branches.
+
+William
+	never spoke
+	stopped as he stood
+	turned to stone
+Bert and Tom
+	were stuck like rocks
+	looked at William.
+Bert and Tom and William
+	stand there to this day
+	are all alone
+		unless the birds perch on them;
+Trolls
+	must be underground
+		as you probably know
+		before dawn
+		or else they
+			go back to what they are made of,
+			never move again.
+	are made of the stuff of the mountains
+Bert and Tom and William
+	has this happened to them.
+```
