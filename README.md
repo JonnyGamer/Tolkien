@@ -196,18 +196,16 @@ Bilbo could never remember
 			across The Water,
 			and then on
 			for a mile or more.
-was very puffed
+Bilbo was very puffed
 	when he got to Bywater
 	just on the stroke of eleven
-found he had come
+Bilbo found he had come
 	without a pocket-handkerchief!
-
 Balin said
 	"Bravo!"
 Balin was
 	standing at the inn door
 	looking out for him.
-
 All the others came
 	Just then
 	round the corner of the road
@@ -221,7 +219,6 @@ All the others were on ponies
 All the others brought a pony
 	that was very small.
 	apparently for Bilbo.
-
 Thorin said,
 	"Up you two get"
 	"and off we go!"
