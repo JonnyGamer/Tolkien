@@ -1272,3 +1272,61 @@ The Wizard
 		"we shall know more about them
 			but when we can read the runes on them,
 ```
+```
+# The Company loots the dwarves cave
+
+Fili said
+	"Let's get out of this horrible smell!"
+
+The Company
+	carried out
+		the pots of coins,
+		food
+			such as was untouched
+			that looked fit to eat,
+		a barrel
+			of ale
+			which was still full.
+	felt by that time
+		like breakfast,
+		very hungry
+	did not turn their noses up at
+		what they had got
+		the trolls' larder.
+	Used to have
+		very scanty provisions
+	Now had
+		bread
+		cheese,
+		ale
+			plenty
+		bacon
+			to toast in the embers of the fire.
+	slept
+		afterwards
+		for their night had been disturbed
+	did nothing more
+		till the afternoon
+	brought up
+		their ponies,
+	carried
+		away
+		the pots of gold
+	buried
+		very secretly
+		the pots of gold
+		not far from the track by the river,
+	putting spells
+		a great many
+		over the pots of gold,
+		just in case they ever had the chance to
+			come back
+			recover them.
+	they all mounted,
+		When that was done, 
+		once more
+	jogged along
+		again
+		on the path
+		towards the East.
+```
