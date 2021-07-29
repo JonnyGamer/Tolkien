@@ -460,3 +460,126 @@ Bilbo was reflecting
 		pony-rides
 		in May-sunshine
 ```
+```
+# The Company sees a light, and sends Bilbo
+
+Balin
+	who was always their look-out man
+	said: "There's a light over there!"
+
+	Was a hill
+		some way off
+			with trees
+				on it
+				pretty thick in parts.
+				a dark mass of them
+		with now a light
+			shining,
+			reddish
+			comfortable-looking
+			that might be a fire
+			that might be torches twinkling.
+
+The Dwarves
+	had looked at it for some while,
+	fell to arguing.
+	Some said "no"
+	Some said "yes".
+	Some said
+		they could but go and see,
+		anything was better than
+			little supper
+			less breakfast
+			wet clothes all the night.
+	Others said:
+		These parts are
+			none too well known
+			too near the mountains.
+		Travellers seldom come this way now.
+		The old maps are no use because
+			Things have changed for the worse
+			The road is unguarded.
+		They have seldom even heard of the king round here
+		The less inquisitive you are as you go along, the less trouble you are likely to find."
+	Some said:
+		"After all there are fourteen of us."
+	All repeated the remark:
+		"Where has Gandalf got to?"
+	Settled it because:
+		the rain began to pour down worse than ever
+		Oin and Gloin began to fight.
+		They said, "After all we have got a burglar with us,"
+	Made off
+		leading their ponies
+		(with all due and proper caution)
+		in the direction of the light.
+	Soon
+		Came to the hill
+		Were in the wood.
+		Up the hill they went;
+	As they went through
+		the trees
+		in the pitch dark.
+		There was no proper path
+			to be seen,
+			such as might lead to a house or a farm;
+		and do what they could,
+			they made a deal of
+				rustling
+				crackling
+				creaking
+			(they made a good deal of
+				grumbling
+				dratting)
+
+
+Suddenly the red light shone out
+	very bright
+	through the tree-trunks
+	not far ahead.
+
+They said,
+	to Bilbo
+	"Now it is the burglar's turn,"
+	"You must
+		"go on
+		"find out
+			"all about that light
+			"what it is for
+			"if all is perfectly safe and canny
+
+Thorin said to Bilbo,
+	"Now scuttle off,
+	"if all is well. come back quick,
+	"If not,
+		"come back if you can! If you can't,
+			hoot twice like a barn-owl
+			hoot once like a screech-owl,
+			we will do what we can."
+
+Bilbo
+	had to go
+		off
+		before he could explain
+			that he could not hoot even once like any kind of owl any more than fly like a bat.
+	knew Hobbits
+		at any rate can move
+			quietly in woods,
+			absolutely quietly.
+			so quietly
+				I don't supposed you or I would have noticed
+					anything at all on a windy night,
+					if the whole cavalcade had passed two feet off.
+				even a weasel would have stirred a whisker at it.
+		take a pride in it [their quiet movement]
+	had sniffed
+		more than once
+		at what he called "all this dwarvish racket,"
+		as they went along,
+	walked primly towards the red light
+	this is what he saw...
+	So, naturally,
+		he got right up
+			to the fire—for fire it was—
+			without disturbing anyone.
+```
