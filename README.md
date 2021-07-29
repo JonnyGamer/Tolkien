@@ -20,7 +20,7 @@ Outlines from Chapter 1
 7. Good luck on their adventures
 8. Bad luck on their adventures
 9. The Company sees a light
-10. They decide to sned Bilbo to investigate
+10. They decide to send Bilbo to investigate
 11. Bilbo sees that there are trolls
 12. The trolls talk amongst themselves
 13. Bilbo decides to burgle the trolls
