@@ -708,3 +708,39 @@ Bilbo
 		behind a tree
 		just behind William
 ```
+```
+# Bilbo attempts to burgle the trolls
+
+Bert and Tom
+	went off to the barrel.
+William
+	was having another drink.
+
+Bilbo
+	plucked up courage
+	put his little hand in William's enormous pocket.
+		There was a purse
+			in it,
+			as big as a bag to Bilbo.
+	thought, "Ha!"
+	was warming to his new work as he lifted it carefully out,
+	thought, "this is a beginning!"
+		(It was!)
+
+Trolls' purses
+	are the mischief,
+This purse
+	was no exception.
+	squeaked
+		"'Ere, 'oo are you?"
+		as it left the pocket;
+
+
+William
+	turned round
+		at once
+		and grabbed Bilbo
+			by the neck,
+			before he could duck behind the tree.
+	said, "Blimey, Bert, look what I've copped!"
+```
